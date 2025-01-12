@@ -3,15 +3,27 @@
 GIT INIT 
 <br>
 GIT ADD
+<br>
 GIT COMMIT
+<br>
 GIT CLONE
+<br>
 GIT PUSH
+<br>
 GIT PULL
+<br>
 GIT BRANCH
+<br>
 GIT CHECKOUT
+<br>
 GIT MERGE
+<br>
 GIT STASH
+<br>
 GIT STATUS
+<br>
 GIT LOG
+<br>
 GIT DIFF
+<br>
 GIT REBASE
