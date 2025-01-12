@@ -134,7 +134,7 @@ Git branch -m old new	:	to change the branch name
 
 
 
-Extra commands:
+Extra commands::
 
 git show <commit> --stat : you’ll see the commit summary along with the files that changed and details on how they changed.
 git commit --amend -m “New commit message” : to edit the commit message
